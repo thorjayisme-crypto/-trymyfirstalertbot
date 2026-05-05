@@ -1,0 +1,6 @@
+[build]
+builder = "nixpacks"
+
+[deploy]
+startCommand = "python 第四阶段lido_tvl.py"
+restartPolicyType = "always"

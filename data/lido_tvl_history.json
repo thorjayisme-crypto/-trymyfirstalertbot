@@ -1,0 +1,72 @@
+[
+  {
+    "timestamp": "2026-05-05 21:39:09",
+    "eth_price_chainlink": 2394.14,
+    "eth_price_pyth": 2389.86,
+    "steth_supply_eth": 9054200.868080158,
+    "steth_tvl_chainlink": 21677024466.305428,
+    "steth_tvl_pyth": 21638272486.590046,
+    "other_tvl": 5002259.67482,
+    "total_tvl_chainlink": 21682026725.980247,
+    "total_tvl_pyth": 21643274746.264866,
+    "Defillama_tvl": 21546277401,
+    "lido_apr": null,
+    "apr_onchain": null
+  },
+  {
+    "timestamp": "2026-05-05 21:40:46",
+    "eth_price_chainlink": 2394.14,
+    "eth_price_pyth": 2389.86,
+    "steth_supply_eth": 9054200.868080158,
+    "steth_tvl_chainlink": 21677024466.305428,
+    "steth_tvl_pyth": 21638272486.590046,
+    "other_tvl": 5002259.67482,
+    "total_tvl_chainlink": 21682026725.980247,
+    "total_tvl_pyth": 21643274746.264866,
+    "Defillama_tvl": 21546277401,
+    "lido_apr": null,
+    "apr_onchain": null
+  },
+  {
+    "timestamp": "2026-05-05 21:43:54",
+    "eth_price_chainlink": 2394.14,
+    "eth_price_pyth": 2389.86,
+    "steth_supply_eth": 9054200.868080158,
+    "steth_tvl_chainlink": 21677024466.305428,
+    "steth_tvl_pyth": 21638272486.590046,
+    "other_tvl": 5002259.67482,
+    "total_tvl_chainlink": 21682026725.980247,
+    "total_tvl_pyth": 21643274746.264866,
+    "Defillama_tvl": 21546277401,
+    "lido_apr": null,
+    "apr_onchain": null
+  },
+  {
+    "timestamp": "2026-05-05 21:44:58",
+    "eth_price_chainlink": 2394.14,
+    "eth_price_pyth": 2389.86,
+    "steth_supply_eth": 9054201.011535378,
+    "steth_tvl_chainlink": 21677024809.75731,
+    "steth_tvl_pyth": 21638272829.42794,
+    "other_tvl": 5002259.67482,
+    "total_tvl_chainlink": 21682027069.43213,
+    "total_tvl_pyth": 21643275089.10276,
+    "Defillama_tvl": 21546277401,
+    "lido_apr": null,
+    "apr_onchain": null
+  },
+  {
+    "timestamp": "2026-05-05 21:46:49",
+    "eth_price_chainlink": 2394.14,
+    "eth_price_pyth": 2389.86,
+    "steth_supply_eth": 9054201.011535378,
+    "steth_tvl_chainlink": 21677024809.75731,
+    "steth_tvl_pyth": 21638272829.42794,
+    "other_tvl": 5002259.67482,
+    "total_tvl_chainlink": 21682027069.43213,
+    "total_tvl_pyth": 21643275089.10276,
+    "Defillama_tvl": 21546277401,
+    "lido_apr": null,
+    "apr_onchain": null
+  }
+]
